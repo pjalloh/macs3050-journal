@@ -208,4 +208,6 @@ __marimo__/
 notebooks/.DS_Store
 .DS_Store
 */*/output
+notebooks/*/*_files/
 notebooks/charles/nx.html
+
