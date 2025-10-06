@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 150" width="500px">
+  <style>text { font: 700 18px monospace; }</style>
+  <rect x="37.5" y="35" width="80" height="80" aria-labelledby="txt1" fill="#E223F7"/>
+  <text x="37.5" y="115" id="txt1">#E223F7</text>
+  <rect x="155" y="35" width="80" height="80" aria-labelledby="txt2" fill="#35CEFC"/>
+  <text x="155" y="115" id="txt2">#35CEFC</text>
+  <rect x="272.5" y="35" width="80" height="80" aria-labelledby="txt3" fill="#AA98F9"/>
+  <text x="272.5" y="115" id="txt3">#AA98F9</text>
+  <rect x="272.5" y="15" width="20" height="20" aria-labelledby="txt4" fill="#8C78FA"/>
+  <text x="272.5" y="15" id="txt4" dominant-baseline="hanging" style="font-size: 5px">#8C78FA</text>
+  <rect x="292.5" y="15" width="20" height="20" aria-labelledby="txt5" fill="#A494FA"/>
+  <text x="292.5" y="15" id="txt5" dominant-baseline="hanging" style="font-size: 5px">#A494FA</text>
+</svg>
