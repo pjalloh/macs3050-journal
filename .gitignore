@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 notebooks/.DS_Store
 .DS_Store
+notebooks/.DS_Store
+*/*/output
+notebooks/charles/nx.html
